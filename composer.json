@@ -1,0 +1,13 @@
+{
+    "name": "vendor/my-project",
+    "description": "Описание проекта myProject.",
+    "authors": [
+        {
+            "name": "denis",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.2.x-dev"
+    }
+}
